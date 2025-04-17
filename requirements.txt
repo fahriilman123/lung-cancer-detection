@@ -1,4 +1,5 @@
 tensorflow
 numpy
-os
+scikit-learn
 hpelm
+scikit-image
